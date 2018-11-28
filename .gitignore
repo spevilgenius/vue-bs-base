@@ -57,3 +57,16 @@ typings/
 # dotenv environment variables file
 .env
 
+.vs/slnx.sqlite
+*.sqlite
+.vs/VSWorkspaceState.json
+.vs/vue-bootstrap-base/v15/.suo
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vs/
+/.vs
+*.sqlite
