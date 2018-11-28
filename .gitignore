@@ -57,6 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+.vs/
+.vs/*
+/.vs
 .vs/slnx.sqlite
 *.sqlite
 .vs/VSWorkspaceState.json
@@ -67,6 +70,3 @@ typings/
 *.ntvs*
 *.njsproj
 *.sln
-.vs/
-/.vs
-*.sqlite
